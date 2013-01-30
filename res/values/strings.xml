@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">文字交友</string>
+    <string name="test_name">文字交友</string>
+    <string name="addBtnText">新增</string>
+    <string name="myLabelText">我的标签</string>
+    <string name="findText">找</string>
+    <string name="searchBtnText">搜索</string>
+    <string name="blank">""</string>
+</resources>
